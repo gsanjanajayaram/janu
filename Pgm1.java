@@ -5,6 +5,6 @@ class Pgm1
 		int a=12;
 		int b=13;
 		int c=a+b;
-		System.out.println("add="+c);
+		System.out.println("the add is="+c);
 	}
 }
