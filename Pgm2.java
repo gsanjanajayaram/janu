@@ -5,6 +5,6 @@ class Pgm2
 		int a=12;
 		int b=13;
 		int c=a-b;
-		System.out.println("sub="+c);
+		System.out.println("the sub="+c);
 	}
 }
